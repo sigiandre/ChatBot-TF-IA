@@ -5,12 +5,10 @@
             "patterns": [
                 "Hola",
                 "Oye",
-                "Como esta",
                 "Hay alguien ahi?",
                 "Buen dia"
             ],
             "responses": [
-                "Hey :)",
                 "Hola, gracias por su visita",
                 "Hola, ¿qué puedo hacer por ti?",
                 "Hola, ¿cómo puedo ayudarte?"
@@ -46,38 +44,10 @@
         {
             "tag": "items",
             "patterns": [
-                "¿Qué artículos tienes?",
-                "¿Qué tipo de artículos hay?",
-                "¿Qué vendes?"
+                "¿Qué pasos debo seguir para insertarme en el negocio digital?"
             ],
             "responses": [
-                "Vendemos café y té",
-                "tenemos café y té"
-            ]
-        },
-        {
-            "tag": "payments",
-            "patterns": [
-                "¿Aceptan tarjetas de crédito?",
-                "¿Aceptan MasterCard?",
-                "¿Puedo pagar con PayPal?",
-                "¿Es solo efectivo?"
-            ],
-            "responses": [
-                "Aceptamos VISA, Mastercard y Paypal",
-                "Aceptamos la mayoría de las principales tarjetas de crédito y Paypal"
-            ]
-        },
-        {
-            "tag": "delivery",
-            "patterns": [
-                "¿Cuánto tiempo tarda la entrega?",
-                "Cuanto tiempo tarda el envio?",
-                "¿Cuándo recibo mi entrega?"
-            ],
-            "responses": [
-                "La entrega tarda de 2 a 4 días.",
-                "El envío tarda de 2 a 4 días."
+                "Aquí te damos 5 consejos para triunfar en los negocios digitales: \n 1. Definir modelo de negocio: B2B o B2. \n 2. Tener un mercado objetivo. \n 3. Definir un modelo de negocio. \n 4. Tener un diseño responsivo. \n 5. Optimización en motores de búsqueda"
             ]
         },
         {
